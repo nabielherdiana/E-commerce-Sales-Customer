@@ -6,7 +6,7 @@ An interactive **E-commerce analytics dashboard** built with **Streamlit** to an
 This project focuses on transforming transactional data into **actionable business insights** through time-based sales analysis and **RFM (Recency, Frequency, Monetary) customer segmentation**.
 
 🔗 **Live Demo:**
-👉 [https://e-commerce-sales-customer.streamlit.app/](https://e-commerce-sales-customer.streamlit.app/)
+👉 [E-Commerce Analytics Dashboard](https://e-commerce-sales-customer.streamlit.app/)
 
 ---
 
@@ -90,7 +90,7 @@ streamlit run dashboard.py
 
 This application is deployed using **Streamlit Community Cloud** and is publicly accessible:
 
-👉 [https://e-commerce-sales-customer.streamlit.app/](https://e-commerce-sales-customer.streamlit.app/)
+👉 [E-Commerce Analytics Dashboard](https://e-commerce-sales-customer.streamlit.app/)
 
 ---
 
@@ -123,3 +123,4 @@ Future enhancements may include:
 * Advanced visualizations using Plotly
 
 ---
+
