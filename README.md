@@ -1,4 +1,4 @@
-E-commerce Sales & Customer Dashboard
+# E-commerce Sales & Customer Dashboard
 
 An interactive **E-commerce analytics dashboard** built with **Streamlit** to analyze sales performance and customer behavior.
 This project focuses on transforming transactional data into **actionable business insights** through time-based sales analysis and **RFM (Recency, Frequency, Monetary) customer segmentation**.
@@ -95,6 +95,7 @@ Future enhancements may include:
 * Interactive KPI growth metrics (MoM / YoY)
 * Integration with real-time data sources
 * Advanced visualizations using Plotly
+
 
 
 
